@@ -2,7 +2,7 @@
 
 I am a skilled and adaptable professional with a background in mechanical engineering and recent completion of Columbia University's Full Stack Web-development bootcamp. Proficient in a wide range of technologies, including HTML, CSS, JavaScript, Node.js, and various databases like MySQL and MongoDB, I bring a comprehensive skill set to any project. My collaborative nature and ability to work effectively within cross-functional teams have been demonstrated through my contributions to projects like Foodie Finds and Wrapify. My tenure at Suncor further underscores my leadership abilities and dedication to operational excellence. With a strong passion for learning and a commitment to success, I am well-prepared to excel in roles that demand technical expertise and innovative problem-solving skills.
 
-Find my resume [here](https://drive.google.com/file/d/1mZja8DBPyDVN_E9ofTnxHOKGhi1LqX7i/view?usp=sharing)
+Find my resume [here](https://drive.google.com/file/d/11fcFtscFSWfBwDScvai3Fu9gKPzosAip/view?usp=sharing)
 
 #### 💬 Ask me about
 I am all about continuous learning, teamwork, and making a real impact. 
